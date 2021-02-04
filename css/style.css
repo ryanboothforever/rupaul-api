@@ -1,0 +1,42 @@
+/* Box Model Hack */
+* {
+     box-sizing: border-box;
+}
+
+/* Clear fix hack */
+.clearfix:after {
+     content: ".";
+     display: block;
+     clear: both;
+     visibility: hidden;
+     line-height: 0;
+     height: 0;
+}
+
+
+/******************************************
+/* BASE STYLES
+/*******************************************/
+
+
+/******************************************
+/* LAYOUT
+/*******************************************/
+img{
+     max-width: 40%;
+}
+section, h2, q{
+     display: grid;
+     place-content: center;
+     padding-top: 5%;
+}
+.profile-section div{
+     display: grid;
+     align-items: center;
+     justify-content: center;
+     grid-template-rows: 100%;
+}
+
+/******************************************
+/* ADDITIONAL STYLES
+/*******************************************/
