@@ -18,7 +18,7 @@ function showQueen(){
     }
 queensName(queenFirst, queenLast)
     let entry = queensName()
-    let url = 'http://www.nokeynoshade.party/api/queens?name=' + entry
+    let url = 'https://www.nokeynoshade.party/api/queens?name=' + entry
 
     fetch(url)
         .then(res => res.json())
