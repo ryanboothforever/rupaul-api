@@ -12,4 +12,4 @@ The [No Key No Shade API ](https://drag-race-api.readme.io/docs/getting-started)
 •Marc Jenkinson \
 •Benjie Kibblewhite \
 •Meaghan Eleanor \
-•Mike Walker \
+•Mike Walker 
