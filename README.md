@@ -5,11 +5,11 @@ A sickening web app that retrieves queens of seasons past and displays to the us
 
 ## Contributors
 
-The [No Key No Shade API ](https://drag-race-api.readme.io/docs/getting-started)created by:
-•Garrett Levine
-•Kevan Hannah
-•Lauren Greenway
-•Marc Jenkinson
-•Benjie Kibblewhite
-•Meaghan Eleanor
-•Mike Walker
+The [No Key No Shade API ](https://drag-race-api.readme.io/docs/getting-started)created by: \
+•Garrett Levine \
+•Kevan Hannah \
+•Lauren Greenway \
+•Marc Jenkinson \
+•Benjie Kibblewhite \
+•Meaghan Eleanor \
+•Mike Walker \
